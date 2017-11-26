@@ -6,10 +6,14 @@ A curated list of Resources for learning technology
     + [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
     + [Awesome Awesome](https://github.com/emijrp/awesome-awesome)
 - Languages
-    + [Awesome Ansible](https://github.com/jdauphant/awesome-ansible)
+   
+    + Java
+        + [Useful Java Links](https://github.com/Vedenin/useful-java-links)
+        + [Better Java](https://github.com/cxxr/better-java)
 - Programming
     + [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - Tools
+    + [Awesome Ansible](https://github.com/jdauphant/awesome-ansible)
 - Algorithms and Data Structures
     + [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 - Design and practices
